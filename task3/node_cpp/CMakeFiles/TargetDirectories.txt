@@ -1,0 +1,6 @@
+/home/zhao/桌面/chat2/CMakeFiles/ros2_cpp_node.dir
+/home/zhao/桌面/chat2/CMakeFiles/uninstall.dir
+/home/zhao/桌面/chat2/CMakeFiles/ros2_cpp_uninstall.dir
+/home/zhao/桌面/chat2/CMakeFiles/test.dir
+/home/zhao/桌面/chat2/CMakeFiles/edit_cache.dir
+/home/zhao/桌面/chat2/CMakeFiles/rebuild_cache.dir
